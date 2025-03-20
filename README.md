@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Pratyush Bansal  
+## 👋 Hey Myself Pratyush 
 ### 🚀 AI/ML Enthusiast | 🖥️ CS Undergrad | 🎮 Game Developer | ☁️ Cloud Computing Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue)
@@ -6,7 +6,6 @@
 ---
 
 ### 💡 About Me
-- 🎓 **BTech CSE (AI & DS)** @ Graphic Era Deemed to Be University (2027)
 - 💻 Passionate about **Machine Learning, Deep Learning, AI, and Game Development**
 - 🔥 Proficient in **Python, C++, Java, SQL, HTML, CSS**
 - 🌱 Currently exploring **Cloud Computing, JavaFX, LibGDX, and DApp Development**
@@ -45,7 +44,6 @@
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pratyushhhhhh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-bansal-xxxxxx/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-bansal-820297289/)  
 
 Let's build something amazing together! 🚀
