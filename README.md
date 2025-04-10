@@ -17,7 +17,6 @@
 - 🔥 Skilled in **Python, C++, Java, SQL, HTML, CSS**
 - 🌱 Currently diving into:
   - **Cloud Computing**
-  - **JavaFX & LibGDX**
   - **DApp Development**
   - **MERN Stack** 🌐
   - **GANs** 🧠
@@ -32,7 +31,7 @@
 ### 🏆 Certifications & Courses
 
 - ✅ **Deep Learning Specialization** – [DeepLearning.AI](https://www.deeplearning.ai/)
-- ✅ **Google Cloud Computing Foundations (GCCF)** – [Google Cloud](https://cloud.google.com/training/)
+- ✅ **Google Cloud Computing Foundations (GCCF)(Ongoing)** –
 
 ---
 
@@ -40,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pratyushhhhhh&show_icons=true&theme=midnight-purple" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=midnight-purple" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=midnight-purple" width="44%"/>
 </p>
 
 
