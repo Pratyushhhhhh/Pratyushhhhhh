@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Pratyush</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🖥️ CS Undergrad | 🎮 Game Developer | ☁️ Cloud Computing Learner</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 🖥️ CS Undergrad | 🎮 Game Developer | ☁️ Cloud Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue" alt="Profile Views"/>
@@ -13,25 +13,47 @@
 
 ### 💡 About Me
 
-- 💻 Passionate about **Machine Learning, Deep Learning, AI, and Game Development**
-- 🔥 Skilled in **Python, C++, Java, SQL, HTML, CSS**
-- 🌱 Currently diving into:
-  - **Cloud Computing**
-  - **DApp Development**
-  - **MERN Stack** 🌐
-  - **GANs** 🧠
-  - **GODOT**
+- 🎓 I'm a Computer Science undergrad deeply passionate about **AI/ML**, **Cloud**, and **Creative Tech**.
+- 🧠 I’ve built projects in areas like **GANs, RAG Models, Backend APIs, Electron Apps**, and **SwiftUI iOS apps**.
+- 🎯 Recently built a **SwiftUI-based animal soundboard** app on iPad — images as buttons that play audio!
+- 🤖 Currently exploring:
+  - **Generative AI & Retrieval-Augmented Generation**
+  - **Swift App Development** using SwiftUI
+  - **Cloud (AWS + GCP)** for deploying scalable AI/ML projects
+  - **DSA mastery** (60+ problems solved across LeetCode/GFG)
 
-<p>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/gifd-preview.gif" width="600" alt="GIFD Preview">
-</p>
+---
+
+### 🛠️ Featured Projects
+
+🚧 **Pix2Pix GAN**
+> Implemented GAN-based image translation from edge maps to realistic images. *(Python, TensorFlow)*
+
+🎧 **Spotify Smart Widget (WIP)**
+> An Electron-based desktop widget integrating ML-based recommendations.
+
+💬 **Constitutional RAG Bot**
+> Hackathon project with **RAG model + WhatsApp Bot + IVR calling** trained on the Indian Constitution. *(Python, LangChain, Twilio)*
+
+🌱 **Carbon Footprint App**
+> React-based educational tool to calculate and reduce your environmental impact.
+
+🧩 **Dynamic Maze Generator & Solver**
+> Collaborated on a JavaScript-powered app generating solvable mazes and visualizing solving algorithms (DFS, BFS, A*).
+
+📱 **Animal Soundboard in SwiftUI**
+> Created on iPad using SwiftUI. Tapping images of animals plays their respective sounds. *(Swift, Xcode iPad Playground)*
 
 ---
 
 ### 🏆 Certifications & Courses
 
-- ✅ **Deep Learning Specialization** – [DeepLearning.AI](https://www.deeplearning.ai/)
-- ✅ **Google Cloud Computing Foundations (GCCF)(Ongoing)** –
+- ✅ [Deep Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)
+- ✅ [Credly Certifications](https://www.credly.com/users/pratyush-bansal)
+  - Google Cloud Computing Foundations (GCCF)
+  - AWS Academy Cloud Foundations *(in progress)*
+- 📚 Game Development with **Godot Engine** (Self-Taught)
+- 💡 Consistent Learner on platforms like Coursera, YouTube ML communities, and DevPost hackathons
 
 ---
 
@@ -42,9 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=midnight-purple" width="44%"/>
 </p>
 
-
-
 ---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages  
@@ -64,6 +85,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ---
 
 ### 🔗 Connect with Me
@@ -75,7 +102,9 @@
   <a href="https://www.linkedin.com/in/pratyush-bansal-820297289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.credly.com/users/pratyush-bansal" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-0A66C2?style=flat&logo=credly&logoColor=white"/>
+  </a>
 </p>
 
 > “Let’s build something amazing together.” 🚀
-
