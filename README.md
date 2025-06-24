@@ -15,12 +15,12 @@
 
 - 🎓 I'm a Computer Science undergrad deeply passionate about **AI/ML**, **Cloud**, and **Creative Tech**.
 - 🧠 I’ve built projects in areas like **GANs, RAG Models, Backend APIs, Electron Apps**, and **SwiftUI iOS apps**.
-- 🎯 Recently built a **SwiftUI-based animal soundboard** app on iPad — images as buttons that play audio!
+- 🎯 Recently built an **interactive maths quiz game** using SwiftUI on iPad — dynamic question logic and scoring system!
 - 🤖 Currently exploring:
   - **Generative AI & Retrieval-Augmented Generation**
   - **Swift App Development** using SwiftUI
   - **Cloud (AWS + GCP)** for deploying scalable AI/ML projects
-  - **DSA mastery** (60+ problems solved across LeetCode/GFG)
+  - **DSA mastery** (70+ problems solved across LeetCode/GFG)
 
 ---
 
@@ -41,8 +41,9 @@
 🧩 **Dynamic Maze Generator & Solver**
 > Collaborated on a JavaScript-powered app generating solvable mazes and visualizing solving algorithms (DFS, BFS, A*).
 
-📱 **Animal Soundboard in SwiftUI**
-> Created on iPad using SwiftUI. Tapping images of animals plays their respective sounds. *(Swift, Xcode iPad Playground)*
+🧮 **Interactive Maths Game in SwiftUI**
+> Developed a fun and educational SwiftUI-based game on iPad that tests quick arithmetic skills with instant feedback and scoring. Designed with a clean UI and dynamic question generation. *(Swift, SwiftUI, iPad Playground)*
+
 
 ---
 
@@ -73,6 +74,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
@@ -85,10 +89,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
+### 🛢️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
