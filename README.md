@@ -1,60 +1,45 @@
 <h1 align="center">👋 Hey, I'm Pratyush</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🖥️ CS Undergrad | 🎮 Game Developer | ☁️ Cloud Explorer</h3>
+<h3 align="center">CS Undergrad | Backend Developer | DSA Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Dev Coding GIF"/>
-</p>
+---
+
+### 🔍 About Me
+
+- 🎓 CS undergrad with a focus on **DSA**, **backend systems**, and **machine learning**.
+- 🧠 Built projects using **GANs**, **RAG models**, **Electron**, and **SwiftUI**.
+- 💻 Practicing **Data Structures & Algorithms** (70+ problems on LeetCode/GFG).
+- 🌐 Interested in deploying scalable apps with **AWS & GCP**.
 
 ---
 
-### 💡 About Me
+### 🚀 Projects
 
-- 🎓 I'm a Computer Science undergrad deeply passionate about **AI/ML**, **Cloud**, and **Creative Tech**.
-- 🧠 I’ve built projects in areas like **GANs, RAG Models, Backend APIs, Electron Apps**, and **SwiftUI iOS games**.
-- 🎯 Recently built an **interactive maths quiz game** using SwiftUI on iPad — dynamic question logic and scoring system!
-- 🤖 Currently exploring:
-  - **Generative AI & Retrieval-Augmented Generation**
-  - **Swift App Development** using SwiftUI
-  - **Cloud (AWS + GCP)** for deploying scalable AI/ML projects
-  - **DSA mastery** (70+ problems solved across LeetCode/GFG)
+- **[Pix2Pix GAN](https://github.com/Pratyushhhhhh/Pix2Pix-Gan-using-tensorflow)**  
+  Image translation using GANs. *(Python, TensorFlow)*
 
----
+- **[Spotify Smart Widget (WIP)](https://github.com/Pratyushhhhhh/spotify-widget)**  
+  Electron-based music widget with ML-based track suggestions.
 
-### 🛠️ Featured Projects
+- **Constitutional RAG Bot**  
+  Chat + IVR bot trained on Indian Constitution. *(LangChain, Twilio)*
 
-🚧 **[Pix2Pix GAN](https://github.com/Pratyushhhhhh/Pix2Pix-Gan-using-tensorflow)**  
-Implemented GAN-based image translation from edge maps to realistic images. *(Python, TensorFlow)*
+- **[Dynamic Maze Generator](https://github.com/Pratyushhhhhh/Dynamic_Maze_Generator_Solver)**  
+  JS-powered maze solver visualizing DFS, BFS, A*.
 
-🎧 **[Spotify Smart Widget (WIP)](https://github.com/Pratyushhhhhh/spotify-widget)**  
-An Electron-based desktop widget integrating ML-based recommendations.
-
-💬 **Constitutional RAG Bot**  
-Hackathon project with **RAG model + WhatsApp Bot + IVR calling** trained on the Indian Constitution. *(Python, LangChain, Twilio)*
-
-🌱 **Carbon Footprint App**  
-React-based educational tool to calculate and reduce your environmental impact.
-
-🧩 **[Dynamic Maze Generator & Solver](https://github.com/Pratyushhhhhh/Dynamic_Maze_Generator_Solver)**  
-Collaborative JavaScript-powered app generating solvable mazes and visualizing solving algorithms (DFS, BFS, A*).  
-
-
-🧮 **[Interactive Maths Game in SwiftUI](https://github.com/Pratyushhhhhh/BrainRush)**  
-Fun and educational SwiftUI-based game on iPad that tests quick arithmetic skills with instant feedback and scoring. *(Swift, SwiftUI)*
+- **[BrainRush - SwiftUI Math Game](https://github.com/Pratyushhhhhh/BrainRush)**  
+  iPad game for practicing fast arithmetic. *(SwiftUI)*
 
 ---
 
-### 🏆 Certifications & Courses
+### 📜 Certifications
 
-- ✅ [Deep Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)
-- ✅ [Credly Certifications](https://www.credly.com/users/pratyush-bansal)
-  - Google Cloud Computing Foundations (GCCF)
-  - AWS Academy Cloud Foundations *(in progress)*
-- 📚 Game Development with **Godot Engine** (Self-Taught)
-- 💡 Consistent Learner on Coursera, YouTube ML communities, and DevPost hackathons
+- ✅ [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
+- ✅ [Google Cloud Computing Foundations (Credly)](https://www.credly.com/users/pratyush-bansal)
+- 📚 AWS Academy (in progress), Swift and Godot (self-taught)
 
 ---
 
@@ -67,36 +52,13 @@ Fun and educational SwiftUI-based game on iPad that tests quick arithmetic skill
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+**Languages**: Python, C++, Java, JavaScript, Swift, Kotlin, SQL, HTML/CSS  
+**AI/ML**: TensorFlow, PyTorch, Keras, NumPy, Pandas  
+**Databases**: MongoDB, Firebase  
+**Cloud/DevOps**: AWS, GCP, Git
 
-### 🧠 AI / ML / Deep Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
-### 🛢️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=g)
 ---
 
 ### 🔗 Connect with Me
@@ -112,5 +74,3 @@ Fun and educational SwiftUI-based game on iPad that tests quick arithmetic skill
     <img src="https://img.shields.io/badge/Credly-0A66C2?style=flat&logo=credly&logoColor=white"/>
   </a>
 </p>
-
-> “Let’s build something amazing together.” 🚀
