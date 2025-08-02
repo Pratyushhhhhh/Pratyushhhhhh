@@ -1,5 +1,5 @@
 <h1 align="center">pratyush here;)</h1>
-<h3 align="center">CS Undergrad | Backend Developer | DSA Learner</h3>
+<h3 align="center">CS Undergrad | Backend Developer | AI-ML | DSA Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue" alt="Profile Views"/>
