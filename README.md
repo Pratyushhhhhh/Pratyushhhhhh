@@ -1,7 +1,7 @@
-<h1 align="center">pratyush here :</h1>
+<h1 align="center">pratyush here :)</h1>
 
 <div align="center">
-  <h3>💻 Backend | 🤖 Transformers & LLMs | 🧠 DSA </h3>
+  <h3>Backend | Transformers & LLMs | DSA </h3>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue" alt="Profile Views"/>
@@ -9,11 +9,11 @@
 
 <br/>
 
-## 🧐 About Me
+## About Me
 
-- 🎓 **CS Undergrad** focused on scalable backend systems and Machine Learning.
-- 🧠 Building with **GANs, RAG models, Electron,** and **SwiftUI**.
-- 💻 Active **DSA** solver.
+- **CS Undergrad** focused on scalable backend systems and Machine Learning.
+-  Learning "Transformers, LLMs, & GenAI".
+-  Active **DSA** solver.
 
 ---
 
@@ -40,7 +40,7 @@
 
 - ✅ [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 - ✅ [Google Cloud Computing Foundations (Credly)](https://www.credly.com/users/pratyush-bansal)
-- 📚 AWS Academy (in progress), Swift and Godot (self-taught)
+- 📚 AWS Certifications (in progress), Swift (self-taught)
 
 ---
 
