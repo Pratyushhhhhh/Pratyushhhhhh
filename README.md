@@ -1,7 +1,7 @@
-<h1 align="center">pratyush here;)</h1>
+<h1 align="center">pratyush here :</h1>
 
 <div align="center">
-  <h3>💻 Backend Developer | 🤖 AI-ML Enthusiast | 🧠 DSA Learner</h3>
+  <h3>💻 Backend | 🤖 Transformers & LLMs | 🧠 DSA </h3>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyushhhhhh&color=blue" alt="Profile Views"/>
@@ -48,29 +48,8 @@
 
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyushhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushhhhhh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyushhhhhh&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
