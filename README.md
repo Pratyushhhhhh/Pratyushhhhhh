@@ -44,15 +44,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyushhhhhh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyushhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushhhhhh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushhhhhh&theme=tokyonight&hide_border=true" alt="streak graph" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushhhhhh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratyushhhhhh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyushhhhhh&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
